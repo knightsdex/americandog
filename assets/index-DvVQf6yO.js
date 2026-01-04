@@ -20092,7 +20092,7 @@ const c2 = [
   {
     question: "Where are the official community links?",
     answer:
-      "Twitter/X: @CharlieDogEther | Telegram: t.me/charlietrumpdog",
+      "Twitter/X: @CharlieDogEther | Telegram: t.me/CharlieDogEther",
   },
   {
     question: "What blockchain is $CHARLIE built on?",
