@@ -19404,7 +19404,7 @@ function FE() {
               size: "lg",
               asChild: !0,
               children: c.jsxs("a", {
-                href: "https://x.com/TrumpCharlieDog",
+                href: "https://x.com/CharlieDogEther",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 children: [
@@ -19672,7 +19672,7 @@ function BE() {
                   size: "lg",
                   asChild: !0,
                   children: c.jsxs("a", {
-                    href: "https://x.com/TrumpCharlieDog",
+                    href: "https://x.com/CharlieDogEther",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: [
@@ -19686,7 +19686,7 @@ function BE() {
                   size: "lg",
                   asChild: !0,
                   children: c.jsx("a", {
-                    href: "https://t.me/charlietrumpdog",
+                    href: "https://t.me/charliedogEther",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: "Join Telegram",
@@ -20232,14 +20232,14 @@ function f2() {
               "flex flex-wrap items-center justify-center gap-6 text-sm text-muted-foreground mb-8",
             children: [
               c.jsx("a", {
-                href: "https://x.com/TrumpCharlieDog",
+                href: "https://x.com/CharlieDogEther",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className: "hover:text-charlie-gold transition-colors",
                 children: "Twitter/X",
               }),
               c.jsx("a", {
-                href: "https://t.me/charlietrumpdog",
+                href: "https://t.me/charliedogEther",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className: "hover:text-charlie-gold transition-colors",
