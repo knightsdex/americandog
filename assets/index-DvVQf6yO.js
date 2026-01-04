@@ -18426,7 +18426,6 @@ const Nl = "/assets/charlie-logo-D3vZGu74.png",
   ya = "0x89c1829b1122168e31360e610c5cbcaa73f395d3",
   lp = [
     { href: "#narrative", label: "Narrative" },
-    { href: "#usd1", label: "USD1" },
     { href: "#receipts", label: "Receipts" },
     { href: "#token", label: "Token" },
     { href: "#community", label: "Community" },
