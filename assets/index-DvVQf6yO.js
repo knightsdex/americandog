@@ -19409,7 +19409,7 @@ function FE() {
                 rel: "noopener noreferrer",
                 children: [
                   c.jsx(gl, { className: "w-4 h-4" }),
-                  "Follow @TrumpCharlieDog",
+                  "Follow @CharlieDogEther",
                 ],
               }),
             }),
@@ -20093,7 +20093,7 @@ const c2 = [
   {
     question: "Where are the official community links?",
     answer:
-      "Twitter/X: @TrumpCharlieDog | Telegram: t.me/charlietrumpdog",
+      "Twitter/X: @CharlieDogEther | Telegram: t.me/charlietrumpdog",
   },
   {
     question: "What blockchain is $CHARLIE built on?",
