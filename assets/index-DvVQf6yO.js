@@ -18512,7 +18512,7 @@ function xE() {
                 size: "sm",
                 asChild: !0,
                 children: c.jsxs("a", {
-                  href: "https://etherscan/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
+                  href: "https://etherscan.io/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
                   children: [
                     "View Contract",
                     c.jsx(_c, { className: "w-4 h-4" }),
@@ -18571,7 +18571,7 @@ function xE() {
                     asChild: !0,
                     className: "flex-1",
                     children: c.jsx("a", {
-                      href: "https://etherscan/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
+                      href: "https://etherscan.io/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
                       children: "View Contract",
                     }),
                   }),
@@ -18672,7 +18672,7 @@ function wE() {
                       size: "lg",
                       asChild: !0,
                       children: c.jsxs("a", {
-                        href: "https://etherscan/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
+                        href: "https://etherscan.io/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
                         children: [
                           "View Contract",
                           c.jsx(_c, { className: "w-4 h-4" }),
