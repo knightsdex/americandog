@@ -18423,7 +18423,7 @@ const yE = sg(
   );
 Ge.displayName = "Button";
 const Nl = "/assets/charlie-logo-D3vZGu74.png",
-  ya = "0xComingSoon",
+  ya = "0x89c1829b1122168e31360e610c5cbcaa73f395d3",
   lp = [
     { href: "#narrative", label: "Narrative" },
     { href: "#usd1", label: "USD1" },
@@ -18512,7 +18512,7 @@ function xE() {
                 size: "sm",
                 asChild: !0,
                 children: c.jsxs("a", {
-                  href: "https://etherscan/address/0xComingSoon",
+                  href: "https://etherscan/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
                   children: [
                     "View Contract",
                     c.jsx(_c, { className: "w-4 h-4" }),
@@ -18571,7 +18571,7 @@ function xE() {
                     asChild: !0,
                     className: "flex-1",
                     children: c.jsx("a", {
-                      href: "https://etherscan/address/0xComingSoon",
+                      href: "https://etherscan/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
                       children: "View Contract",
                     }),
                   }),
@@ -18583,7 +18583,7 @@ function xE() {
     ],
   });
 }
-const xa = "0xComingSoon";
+const xa = "0x89c1829b1122168e31360e610c5cbcaa73f395d3";
 function wE() {
   const [e, t] = x.useState(!1),
     [n, r] = x.useState({ x: 50, y: 50 }),
@@ -18672,7 +18672,7 @@ function wE() {
                       size: "lg",
                       asChild: !0,
                       children: c.jsxs("a", {
-                        href: "https://etherscan/address/0xComingSoon",
+                        href: "https://etherscan/address/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
                         children: [
                           "View Contract",
                           c.jsx(_c, { className: "w-4 h-4" }),
@@ -19449,19 +19449,19 @@ function FE() {
     ],
   });
 }
-const Wo = "0xComingSoon",
+const Wo = "0x89c1829b1122168e31360e610c5cbcaa73f395d3",
   $E = [
     {
       label: "Uniswap",
-      url: `https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon`,
+      url: `https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x89c1829b1122168e31360e610c5cbcaa73f395d3`,
     },
     {
       label: "DexScreener",
-      url: "https://dexscreener.com/ethereum/0xComingSoon",
+      url: "https://dexscreener.com/ethereum/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
     },
     {
       label: "Dextools",
-      url: "https://www.dextools.io/app/en/token/0xComingSoon",
+      url: "https://www.dextools.io/app/en/token/0x89c1829b1122168e31360e610c5cbcaa73f395d3",
     },
   ];
 function UE() {
@@ -20102,7 +20102,7 @@ const c2 = [
   {
     question: "How do I verify the contract address?",
     answer:
-      "Always use the official contract address from this website or our verified social channels: 0xComingSoon",
+      "Always use the official contract address from this website or our verified social channels: 0x89c1829b1122168e31360e610c5cbcaa73f395d3",
   },
 ];
 function d2() {
