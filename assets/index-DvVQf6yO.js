@@ -18888,7 +18888,7 @@ function bE() {
 const SE = [
   {
     icon: Sw,
-    title: "USD1 Liquidity Ready",
+    title: "Ethereum Liquidity Ready",
     description:
       "Designed for seamless integration with Ethereum infrastructure and cryptocurrency rails.",
   },
